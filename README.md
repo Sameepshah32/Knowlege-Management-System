@@ -1,1 +1,2 @@
 # Knowlege-Management-System
+Built an easy-to-use KMS for finding out relevant research articles based on user given query. The backend code is able to extract data from pdfs, pre-process those, summarize the extracted text and then measures the similarity score with user query. Output shows the average similarity of multiple sections within a pdf along with their individual scores and helps end-user to select the article having highest relevance to their interest.
